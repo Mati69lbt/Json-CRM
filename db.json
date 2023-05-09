@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 3436030758,
+      "email": "juan@gmail.com",
+      "empresa": "Bichito de Looz"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 3472502174,
+      "email": "karen@Yahoo.com",
+      "empresa": "Inpoolcor"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 3472625897,
+      "email": "pedro@Yahoo.com",
+      "empresa": "Bertoto Boglione"
+    },
+    {
+      "id": 7,
+      "nombre": "Carolina",
+      "telefono": 3436115022,
+      "email": "langhicarolina@hotmail.com",
+      "empresa": "Integral Software"
+    },
+    {
+      "nombre": "Schweinsteiger",
+      "empresa": "Aleman",
+      "email": "Bast@mail.com",
+      "telefono": "3472658497",
+      "notas": "Bastas! ",
+      "id": 8
+    },
+    {
+      "nombre": "Matias",
+      "empresa": "La Barra del Turco",
+      "email": "mati69_lbt@hotmail.com",
+      "telefono": "3472554185",
+      "notas": "Excelente! ",
+      "id": 9
+    }
+  ]
+}
